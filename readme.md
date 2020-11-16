@@ -2,10 +2,11 @@
     <a href="https://www.hackerrank.com/alexsilvadoprado">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>21 efficient solutions to HackerRank problems.
+    <br>25 efficient solutions to HackerRank problems.
 </p>
 
 * [Algorithms](#algorithms)
+* [Data Structures](#data-structures)
 
 Solutions are coded using Java 8
 
@@ -34,3 +35,13 @@ Solutions are coded using Java 8
 |         Implementation         | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer)                                                              |   15   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Algorithms/Implementation/Day%20of%20the%20Programmer/Solution.java)                                    |
 |         Implementation         | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit)                                                              |   10   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Algorithms/Implementation/Bill%20Division/Solution.java)                                    |
 |         Dynamic Programming         | [Play with words](https://www.hackerrank.com/challenges/strplay)                                                |   65   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Algorithms/Dynamic%20Programming/Play%20with%20words/Solution.java)                     |
+
+
+# Data Structures
+
+|    Subdomain    |                                                                        Challenge                                                                       | Points |                                                                                                  Solution                                                                                                  |
+|:---------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|      Arrays     | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds)                                                                                         |   10   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Arrays/Arrays%20-%20DS/Solution.java)                                                                   |
+|      Arrays     | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array)                                                                                        |   15   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Arrays/2D%20Array%20-%20DS/Solution.java)                                                               |
+|      Arrays     | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array)                                                                                   |   15   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Arrays/Dynamic%20Array/Solution.java)                                                                   |
+|      Arrays     | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation)                                                                             |   20   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Arrays/Left%20Rotation/Solution.java)                                                                   |
