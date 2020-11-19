@@ -2,7 +2,7 @@
     <a href="https://www.hackerrank.com/alexsilvadoprado">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>35 efficient solutions to HackerRank problems.
+    <br>40 efficient solutions to HackerRank problems.
 </p>
 
 * [Algorithms](#algorithms)
@@ -55,3 +55,8 @@ Solutions are coded using Java 8
 |   Linked List   | [Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse)                                               |    5   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Linked%20Lists/Print%20in%20Reverse/Solution.java)                                                      |
 |   Linked List   | [Reverse a linked list](https://www.hackerrank.com/challenges/reverse-a-linked-list)                                                                   |    5   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Linked%20Lists/Reverse%20a%20linked%20list/Solution.java)                                               |
 |   Linked List   | [Compare two linked lists](https://www.hackerrank.com/challenges/compare-two-linked-lists)                                                             |    5   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Linked%20Lists/Compare%20two%20linked%20lists/Solution.java)                                            |
+|   Linked List   | [Merge two sorted linked lists](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists)                                                   |    5   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Linked%20Lists/Merge%20two%20sorted%20linked%20lists/Solution.java)                                     |
+|   Linked List   | [Get Node Value](https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail)                                 |    5   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Linked%20Lists/Get%20Node%20Value/Solution.java)                                                        |
+|   Linked List   | [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list) |    5   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Linked%20Lists/Delete%20duplicate-value%20nodes%20from%20a%20sorted%20linked%20list/Solution.java)      |
+|   Linked List   | [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle)                                                 |    5   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Linked%20Lists/Cycle%20Detection/Solution.java)                                                         |
+|   Linked List   | [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists)                                 |    5   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Linked%20Lists/Find%20Merge%20Point%20of%20Two%20Lists/Solution.java)                                   |
