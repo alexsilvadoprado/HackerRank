@@ -2,7 +2,7 @@
     <a href="https://www.hackerrank.com/alexsilvadoprado">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>40 efficient solutions to HackerRank problems.
+    <br>45 efficient solutions to HackerRank problems.
 </p>
 
 * [Algorithms](#algorithms)
@@ -60,3 +60,8 @@ Solutions are coded using Java 8
 |   Linked Lists   | [Delete duplicate-value nodes from a sorted linked list](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list) |    5   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Linked%20Lists/Delete%20duplicate-value%20nodes%20from%20a%20sorted%20linked%20list/Solution.java)      |
 |   Linked Lists   | [Cycle Detection](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle)                                                 |    5   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Linked%20Lists/Cycle%20Detection/Solution.java)                                                         |
 |   Linked Lists   | [Find Merge Point of Two Lists](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists)                                 |    5   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Linked%20Lists/Find%20Merge%20Point%20of%20Two%20Lists/Solution.java)                                   |
+|   Linked Lists   | [Inserting a Node Into a Sorted Doubly Linked List](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list)              |    5   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Linked%20Lists/Inserting%20a%20Node%20Into%20a%20Sorted%20Doubly%20Linked%20List/Solution.java)         |
+|   Linked Lists   | [Reverse a doubly linked list](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list)                                                     |    5   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Linked%20Lists/Reverse%20a%20doubly%20linked%20list/Solution.java)                                      |
+|      Trees      | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal)                                                              |   10   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Tree%20-%20Preorder%20Traversal/Solution.java)                                                    |
+|      Trees      | [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal)                                                            |   10   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Tree%20-%20Postorder%20Traversal/Solution.java)                                                   |
+|      Trees      | [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal)                                                                |   10   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Tree%20-%20Inorder%20Traversal/Solution.java)                                                     |
