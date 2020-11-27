@@ -2,7 +2,7 @@
     <a href="https://www.hackerrank.com/alexsilvadoprado">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>45 efficient solutions to HackerRank problems.
+    <br>49 efficient solutions to HackerRank problems.
 </p>
 
 * [Algorithms](#algorithms)
@@ -65,3 +65,7 @@ Solutions are coded using Java 8
 |      Trees      | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal)                                                              |   10   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Tree%20-%20Preorder%20Traversal/Solution.java)                                                    |
 |      Trees      | [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal)                                                            |   10   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Tree%20-%20Postorder%20Traversal/Solution.java)                                                   |
 |      Trees      | [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal)                                                                |   10   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Tree%20-%20Inorder%20Traversal/Solution.java)                                                     |
+|      Trees      | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree)                                                    |   10   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Tree%20-%20Height%20of%20a%20Binary%20Tree/Solution.java)                                         |
+|      Trees      | [Tree: Top View](https://www.hackerrank.com/challenges/tree-top-view)                                                    |   20   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Tree%20-%20Top%20View/Solution.java)                                         |
+|      Trees      | [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal)                                                        |   20   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Tree%20-%20Level%20Order%20Traversal/Solution.java)                                               |
+|      Trees      | [Binary Search Tree: Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion)                                                    |   20   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Binary%20Search%20Tree%20-%20Insertion/Solution.java)                                             |
