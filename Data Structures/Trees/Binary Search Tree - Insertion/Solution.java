@@ -60,5 +60,5 @@ class Solution
         }
         scan.close();
       	preOrder(root);
-    }	
+    }
 }

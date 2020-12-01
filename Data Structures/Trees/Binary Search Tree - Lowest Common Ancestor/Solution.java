@@ -66,5 +66,5 @@ class Solution
         scan.close();
         Node ans = lca(root,v1,v2);
         System.out.println(ans.data);
-    }	
+    }
 }
