@@ -17,26 +17,18 @@ class Node
 
 class Solution 
 {
-    public static void levelOrder(Node root) 
+    public static Node lca(Node root, int v1, int v2) 
     {
-        Queue<Node> queue = new LinkedList<Node>();
-        if (root != null) 
-        {
-            queue.add(root);
-        }
-        while (!queue.isEmpty()) 
-        {
-            Node n = queue.remove();
-            System.out.print(n.data + " ");
-            if (n.left != null) 
-            {
-                queue.add(n.left);
-            }
-            if (n.right != null) 
-            {
-                queue.add(n.right);
-            }
-        }
+        if(root == null)
+            return root;
+        
+        if(root.data > v1 && root.data > v2)
+            return lca(root.left, v1, v2);
+        
+        if(root.data < v1 && root.data < v2)
+            return lca(root.right, v1, v2);
+        
+        return root;
     }
 
     public static Node insert(Node root, int data) 
@@ -44,8 +36,7 @@ class Solution
         if(root == null) 
         {
             return new Node(data);
-        } else 
-        {
+        } else {
             Node cur;
             if(data <= root.data) 
             {
@@ -70,7 +61,10 @@ class Solution
             int data = scan.nextInt();
             root = insert(root, data);
         }
+        int v1 = scan.nextInt();
+        int v2 = scan.nextInt();
         scan.close();
-        levelOrder(root);
+        Node ans = lca(root,v1,v2);
+        System.out.println(ans.data);
     }	
 }

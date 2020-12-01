@@ -6,7 +6,7 @@ class Node
     Node left;
     Node right;
     int data;
-    
+
     Node(int data) 
     {
         this.data = data;
@@ -17,7 +17,7 @@ class Node
 
 class Solution 
 {
-	public static void topView(Node root) 
+    public static void topView(Node root) 
     {
         TreeMap<Integer, List<Integer>> map = new TreeMap<Integer, List<Integer>>();
         
@@ -46,7 +46,7 @@ class Solution
         }
     }
 
-	public static Node insert(Node root, int data) 
+    public static Node insert(Node root, int data) 
     {
         if(root == null) 
         {
@@ -79,5 +79,5 @@ class Solution
         }
         scan.close();
         topView(root);
-    }	
+    }
 }

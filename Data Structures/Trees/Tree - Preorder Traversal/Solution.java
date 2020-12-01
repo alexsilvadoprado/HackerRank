@@ -6,7 +6,7 @@ class Node
     Node left;
     Node right;
     int data;
-    
+
     Node(int data) 
     {
         this.data = data;
@@ -27,7 +27,7 @@ class Solution
         }
     }
 
-	public static Node insert(Node root, int data) 
+    public static Node insert(Node root, int data) 
     {
         if(root == null) 
         {
@@ -60,5 +60,5 @@ class Solution
         }
         scan.close();
         preOrder(root);
-    }	
+    }
 }

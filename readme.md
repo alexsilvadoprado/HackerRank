@@ -2,7 +2,7 @@
     <a href="https://www.hackerrank.com/alexsilvadoprado">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
-    <br>49 efficient solutions to HackerRank problems.
+    <br>52 efficient solutions to HackerRank problems.
 </p>
 
 * [Algorithms](#algorithms)
@@ -69,3 +69,6 @@ Solutions are coded using Java 8
 |      Trees      | [Tree: Top View](https://www.hackerrank.com/challenges/tree-top-view)                                                    |   20   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Tree%20-%20Top%20View/Solution.java)                                         |
 |      Trees      | [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal)                                                        |   20   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Tree%20-%20Level%20Order%20Traversal/Solution.java)                                               |
 |      Trees      | [Binary Search Tree: Insertion](https://www.hackerrank.com/challenges/binary-search-tree-insertion)                                                    |   20   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Binary%20Search%20Tree%20-%20Insertion/Solution.java)                                             |
+|      Trees      | [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding)                                                                  |   20   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Tree%20-%20Huffman%20Decoding/Solution.java)                                                      |
+|      Trees      | [Binary Search Tree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor)                          |   30   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Binary%20Search%20Tree%20-%20Lowest%20Common%20Ancestor/Solution.java)                            |
+|      Trees      | [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo)                                                                             |   40   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Swap%20Nodes%20%5BAlgo%5D/Solution.java)                                                          |
