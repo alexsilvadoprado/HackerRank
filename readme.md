@@ -2,7 +2,7 @@
     <a href="https://www.hackerrank.com/alexsilvadoprado">
         <img height=150 src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg">
     </a>
-    <br>52 efficient solutions to HackerRank problems.
+    <br>53 efficient solutions to HackerRank problems.
 </p>
 
 * [Algorithms](#algorithms)
@@ -72,3 +72,4 @@ Solutions are coded using Java 8
 |      Trees      | [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding)                                                                  |   20   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Tree%20-%20Huffman%20Decoding/Solution.java)                                                      |
 |      Trees      | [Binary Search Tree: Lowest Common Ancestor](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor)                          |   30   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Binary%20Search%20Tree%20-%20Lowest%20Common%20Ancestor/Solution.java)                            |
 |      Trees      | [Swap Nodes [Algo]](https://www.hackerrank.com/challenges/swap-nodes-algo)                                                                             |   40   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Swap%20Nodes%20%5BAlgo%5D/Solution.java)                                                          |
+|      Trees      | [Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree)                                                                             |   80   | [Solution.java](https://github.com/alexsilvadoprado/HackerRank/blob/master/Data%20Structures/Trees/Kitty%27s%20Calculations%20on%20a%20Tree/Solution.java)                                                          |
